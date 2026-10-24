@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+!.env.example
+secrets/
+private/
+customer-data/
+client-data/
+*.pem
+*.key
+*_cookies.json
+*_token.json
+*_private.csv
+*_private.xlsx
+*_private.json

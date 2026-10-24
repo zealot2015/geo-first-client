@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "geo-first-client",
+  "version": "1.0.0",
+  "description": "Evidence-based GEO training from zero to first client, AI brand visibility audits, content planning, compliance-first reporting.",
+  "license": "MIT",
+  "keywords": [
+    "geo",
+    "generative-engine-optimization",
+    "ai-visibility",
+    "training",
+    "marketing"
+  ]
+}
